@@ -68,7 +68,7 @@ Material:
     - _Color_B: {r: 0.5314465, g: 0.9165319, b: 1, a: 1}
     - _Depth_colour: {r: 0.41823888, g: 0.62750554, b: 1, a: 1}
     - _Normal_multiplier: {r: 0, g: 0, b: 0, a: 0}
-    - _foam_scroll: {r: 0, g: 0, b: 0, a: 0}
+    - _foam_scroll: {r: 0.03, g: 0, b: 0, a: 0}
     - _foam_size: {r: 1, g: 1, b: 0, a: 0}
     - _offset: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
